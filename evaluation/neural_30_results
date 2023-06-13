@@ -1,0 +1,22 @@
+Baseline CHRF Metrics Result:
+raramuri-spanish: chrF2 = 12.53 
+shipibo_konibo-spanish: chrF2 = 11.51 
+ashaninka-spanish: chrF2 = 5.96 
+wixarika-spanish: chrF2 = 6.87 
+aymara-spanish: chrF2 = 6.25 
+bribri-spanish: chrF2 = 12.97 
+guarani-spanish: chrF2 = 7.62 
+hñähñu-spanish: chrF2 = 9.63 
+nahuatl-spanish: chrF2 = 6.76 
+quechua-spanish: chrF2 = 7.27 
+Baseline BLEU Metrics Result:
+raramuri-spanish: 0.46 
+shipibo_konibo-spanish: 0.39 
+ashaninka-spanish: 0.31 
+wixarika-spanish: 0.36 
+aymara-spanish: 0.20 
+bribri-spanish: 0.39 
+guarani-spanish: 0.26 
+hñähñu-spanish: 0.41 
+nahuatl-spanish: 0.23 
+quechua-spanish: 0.21 
