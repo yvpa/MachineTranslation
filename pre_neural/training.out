@@ -1,0 +1,4 @@
+Using SCRIPTS_ROOTDIR: /opt/mosesdecoder/scripts
+Using single-thread GIZA
+using gzip 
+ERROR: Language model file not found or empty: /opt/master-study/semester_2/nlp/pre_neural/lm/aymara-spanish/train.blm.es at /opt/mosesdecoder/scripts/training/train-model.perl line 609.

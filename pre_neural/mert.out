@@ -1,0 +1,2 @@
+Using SCRIPTS_ROOTDIR: /opt/mosesdecoder/scripts
+File not found: /opt/master-study/semester_2/nlp/pre_neural/working/aymara-spanish/train/model/moses.ini (interpreted as /opt/master-study/semester_2/nlp/pre_neural/working/aymara-spanish/train/model/moses.ini). at /opt/mosesdecoder/scripts/training/mert-moses.pl line 500.
